@@ -19,3 +19,4 @@ Buat to the point, biar gag capek ketik one by one
 - cd auto2
 - chmod +x mine.sh
 - sudo ./mine.sh
+### don't try it **"koleksi pribadi"** - test
