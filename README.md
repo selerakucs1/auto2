@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Buat to the point, biar gag capek ketik one by one
+- git clone https://github.com/selerakucs1/auto2.git
+- cd auto2
+- chmod +x mine.sh
+- sudo ./mine.sh
