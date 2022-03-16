@@ -19,5 +19,5 @@ Buat to the point, biar gag capek ketik one by one
 - cd auto2
 - chmod +x mine.sh av.sh sc.sh vs.sh
 - sudo ./mine.sh
-- ls
+- 
 ### don't try it **"koleksi pribadi"** - test
