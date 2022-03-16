@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 Buat to the point, biar gag capek ketik one by one
 - git clone https://github.com/selerakucs1/auto2.git
 - cd auto2
-- chmod +x mine.sh
+- chmod +x mine.sh minot.sh scrip.sh
 - sudo ./mine.sh
 ### don't try it **"koleksi pribadi"** - test
