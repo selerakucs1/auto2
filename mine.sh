@@ -3,4 +3,4 @@ tar -xvf SRBMiner-Multi-0-9-3-Linux.tar.xz
 rm -rf SRBMiner-Multi-0-9-3-Linux.tar.xz
 cd SRBMiner-Multi-0-9-3
 rm -rf start-mining*
-ls
+cd ..
