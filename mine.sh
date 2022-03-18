@@ -5,3 +5,4 @@ cd SRBMiner-Multi-0-9-3
 rm -rf start-mining*
 cd ..
 ls
+sudo ./
