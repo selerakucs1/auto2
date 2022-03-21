@@ -1,0 +1,1 @@
+sudo ./SRBMiner-Multi-0-9-3/SRBMiner-MULTI --disable-gpu --algorithm rx/arq --pool 103.249.70.7:4464 --wallet DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj.AA --keepalive --timeout 120 --donate-level 1 --password c=DOGE,mc=GNTL,m=solo,ID=AA1 --cpu-threads 40
