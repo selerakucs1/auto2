@@ -1,0 +1,1 @@
+sudo ./SRBMiner-Multi-0-9-3/SRBMiner-MULTI --disable-gpu --algorithm curvehash --pool 103.249.70.7:3343 --wallet DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj.AA --password c=DOGE,mc=PLSR,ID=AA1 --cpu-threads 40
