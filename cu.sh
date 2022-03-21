@@ -1,1 +1,1 @@
--a curvehash -o stratum+tcp://curvehash.mine.zergpool.com:3343 -u DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj -p  c=DOGE,mc=CURVE/PLSR,ID=Dell
+sudo ./SRBMiner-Multi-0-9-3/SRBMiner-MULTI --disable-gpu --algorithm curvehash --pool 103.249.70.7:3343 --wallet DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj.AA --password c=DOGE,mc=CURVE/PLSR,ID=AA1 --cpu-threads 40
