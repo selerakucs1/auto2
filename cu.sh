@@ -1,0 +1,1 @@
+-a curvehash -o stratum+tcp://curvehash.mine.zergpool.com:3343 -u DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj -p  c=DOGE,mc=CURVE/PLSR,ID=Dell
