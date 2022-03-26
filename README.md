@@ -22,3 +22,11 @@ Buat to the point, biar gag capek ketik one by one
 -
 - sudo ./
 ### don't try it **"koleksi pribadi"** - test
+
+# XRDP
+- systemctl disable xrdp
+- touch /var/log/xrdp.log
+- chown xrdp:adm /var/log/xrdp.log
+- chmod 640 /var/log/xrdp.log
+- systemctl start xrdp
+- systemctl status xrdp
