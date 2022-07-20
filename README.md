@@ -19,9 +19,9 @@ Buat to the point, biar gag capek ketik one by one
 - cd auto2
 - chmod +x *.sh
 - chmod +x l1 l2
-- sudo ./mine.sh
+- ./mine.sh
 -
-- sudo ./
+- ./
 ### don't try it **"koleksi pribadi"** - test
 # TEST Wget
 
