@@ -1,1 +1,1 @@
-sudo ./SRBMiner-Multi-0-9-4/SRBMiner-MULTI --disable-gpu --algorithm verushash --pool ap.luckpool.net:3956 --wallet RWCs3PqLSyQKuj7gR2xpD8UHH8R9MMWXs2.AA2 --password x
+sudo ./SRBMiner-Multi-1-0-3/SRBMiner-MULTI --disable-gpu --algorithm verushash --pool ap.luckpool.net:3956 --wallet RWCs3PqLSyQKuj7gR2xpD8UHH8R9MMWXs2.AA2 --password x
