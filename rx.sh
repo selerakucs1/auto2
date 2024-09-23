@@ -1,1 +1,1 @@
-sudo ./SRBMiner-Multi-0-9-3/SRBMiner-MULTI --disable-gpu --algorithm rx/arq --pool 103.249.70.7:4464 --wallet DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj.AA --keepalive --timeout 120 --donate-level 1 --password c=DOGE,mc=GNTL,ID=AR1 --cpu-threads 40
+sudo ./SRBMiner-Multi-2-6-5/SRBMiner-MULTI --disable-gpu --algorithm rx/arq --pool rx.unmineable.com --wallet DOGE:DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj.srbmulti01 --keepalive --timeout 120 --donate-level 1 --password=x  --cpu-threads 1
